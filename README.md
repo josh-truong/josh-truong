@@ -21,12 +21,12 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="45%"
-         src="https://github-readme-stats.vercel.app/api?username=JTDev21&show_icons=true&hide_border=true&count_private=true&theme=dark" /> 
+         src="https://github-readme-stats.vercel.app/api?username=josh-truong&show_icons=true&hide_border=true&count_private=true&theme=dark" /> 
 </a>
 
 <a href="https://git.io/streak-stats">
     <img width="45%" align="right"
-         src="http://github-readme-streak-stats.herokuapp.com?user=JTDev21&theme=tokyonight">
+         src="http://github-readme-streak-stats.herokuapp.com?user=josh-truong&theme=tokyonight">
 </a>
 
 <br />
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
     
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="35%" align="right"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTDev21&layout=compact&theme=dark" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-truong&layout=compact&theme=dark" />
 </a>
 
 - 👀 I’m interested in ...
@@ -57,8 +57,8 @@ You can click the Preview link to take a look at your changes.
 | 🎮 3d engine           | [Python](https://github.com/StanislavPetrovV/Software_3D_engine), [C++](https://www.youtube.com/watch?v=ih20l3pJoeU)      |
 | Widget for desktop     | [Ref](https://www.deviantart.com/birdalliance/art/SPECTRUM-Launcher-v3-for-Rainmeter-762183493)                           | [Spectrum][Spectrum]
     
-[Vid2Ascii]: https://github.com/JTDev21/Vid2Ascii
-[Spectrum]: https://github.com/JTDev21/Spectrum-CS
+[Vid2Ascii]: https://github.com/josh-truong/Vid2Ascii
+[Spectrum]: https://github.com/josh-truong/Spectrum-CS
     
 <hr>
  
@@ -95,48 +95,48 @@ You can click the Preview link to take a look at your changes.
 [//]: # (All icons are from iconscout)
 <div align="center">
     <img height="60px" width="60px" alt="c#"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/c-sharp.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/c-sharp.svg" />
     <img height="60px" width="60px" alt="c"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/c.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/c.svg" />
     <img height="60px" width="60px" alt="c++"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/cpp.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/cpp.svg" />
     <img height="60px" width="60px" alt="docker"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/docker.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/docker.svg" />
     <img height="60px" width="60px" alt="git"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/git.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/git.svg" />
     <img height="60px" width="60px" alt="github"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/github.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/github.svg" />
     <img height="60px" width="60px" alt="html5"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/html5.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/html5.svg" />
     <img height="60px" width="60px" alt="js"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/javascript.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/javascript.svg" />
     <br>
     <img height="60px" width="60px" alt="mysql"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/mysql.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/mysql.svg" />
     <img height="60px" width="60px" alt="node js"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/node-js.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/node-js.svg" />
     <img height="60px" width="60px" alt="octave"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/octave.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/octave.svg" />
     <img height="60px" width="60px" alt="postgresql"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/postgresql.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/postgresql.svg" />
     <img height="60px" width="60px" alt="python"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/python.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/python.svg" />
     <img height="60px" width="60px" alt="react"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/react.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/react.svg" />
     <img height="60px" width="60px" alt="vim"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/vim.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/vim.svg" />
     <img height="60px" width="60px" alt="vscode"
-         src="https://github.com/JTDev21/JTDev21/blob/master/logos/visual-studio-code.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/master/logos/visual-studio-code.svg" />
 </div>    
     
     
 
 ### Connect with me:
 
-[<img width="22px" src="https://github.com/JTDev21/JTDev21/blob/master/logos/youtube.svg" />][youtube]
-[<img width="22px" src="https://github.com/JTDev21/JTDev21/blob/master/logos/twitter.svg" />][twitter]
-[<img width="22px" src="https://github.com/JTDev21/JTDev21/blob/master/logos/instagram.svg" />][instagram]
-[<img width="22px" src="https://github.com/JTDev21/JTDev21/blob/master/logos/linkedin.svg" />][linkedin]
+[<img width="22px" src="https://github.com/JTDevjosh-truong21/josh-truong/blob/master/logos/youtube.svg" />][youtube]
+[<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/master/logos/twitter.svg" />][twitter]
+[<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/master/logos/instagram.svg" />][instagram]
+[<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/master/logos/linkedin.svg" />][linkedin]
 
 
 [youtube]: https://www.youtube.com/channel/UCI2CBCAQ21l-TChIpfNGZAA
