@@ -95,48 +95,48 @@ You can click the Preview link to take a look at your changes.
 [//]: # (All icons are from iconscout)
 <div align="center">
     <img height="60px" width="60px" alt="c#"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/c-sharp.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/c-sharp.svg" />
     <img height="60px" width="60px" alt="c"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/c.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/c.svg" />
     <img height="60px" width="60px" alt="c++"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/cpp.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/cpp.svg" />
     <img height="60px" width="60px" alt="docker"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/docker.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/docker.svg" />
     <img height="60px" width="60px" alt="git"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/git.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/git.svg" />
     <img height="60px" width="60px" alt="github"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/github.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/github.svg" />
     <img height="60px" width="60px" alt="html5"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/html5.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/html5.svg" />
     <img height="60px" width="60px" alt="js"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/javascript.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/javascript.svg" />
     <br>
     <img height="60px" width="60px" alt="mysql"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/mysql.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/mysql.svg" />
     <img height="60px" width="60px" alt="node js"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/node-js.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/node-js.svg" />
     <img height="60px" width="60px" alt="octave"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/octave.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/octave.svg" />
     <img height="60px" width="60px" alt="postgresql"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/postgresql.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/postgresql.svg" />
     <img height="60px" width="60px" alt="python"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/python.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/python.svg" />
     <img height="60px" width="60px" alt="react"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/react.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/react.svg" />
     <img height="60px" width="60px" alt="vim"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/vim.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/vim.svg" />
     <img height="60px" width="60px" alt="vscode"
-         src="https://github.com/josh-truong/josh-truong/blob/master/logos/visual-studio-code.svg" />
+         src="https://github.com/josh-truong/josh-truong/blob/main/logos/visual-studio-code.svg" />
 </div>    
     
     
 
 ### Connect with me:
 
-[<img width="22px" src="https://github.com/JTDevjosh-truong21/josh-truong/blob/master/logos/youtube.svg" />][youtube]
-[<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/master/logos/twitter.svg" />][twitter]
-[<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/master/logos/instagram.svg" />][instagram]
-[<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/master/logos/linkedin.svg" />][linkedin]
+[<img width="22px" src="https://github.com/JTDevjosh-truong21/josh-truong/blob/main/logos/youtube.svg" />][youtube]
+[<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/main/logos/twitter.svg" />][twitter]
+[<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/main/logos/instagram.svg" />][instagram]
+[<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/main/logos/linkedin.svg" />][linkedin]
 
 
 [youtube]: https://www.youtube.com/channel/UCI2CBCAQ21l-TChIpfNGZAA
