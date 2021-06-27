@@ -133,7 +133,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-[<img width="22px" src="https://github.com/JTDevjosh-truong21/josh-truong/blob/main/logos/youtube.svg" />][youtube]
+[<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/main/logos/youtube.svg" />][youtube]
 [<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/main/logos/twitter.svg" />][twitter]
 [<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/main/logos/instagram.svg" />][instagram]
 [<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/main/logos/linkedin.svg" />][linkedin]
