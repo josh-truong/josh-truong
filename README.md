@@ -44,7 +44,9 @@
 | 🍩 Donut               | [Article](https://www.a1k0n.net/2011/07/20/donut-math.html)                                                               |
 | 🎮 3d engine           | [Python](https://github.com/StanislavPetrovV/Software_3D_engine), [C++](https://www.youtube.com/watch?v=ih20l3pJoeU)      |
 | Widget for desktop     | [Ref](https://www.deviantart.com/birdalliance/art/SPECTRUM-Launcher-v3-for-Rainmeter-762183493)                           | [Spectrum][Spectrum]
- 
+| ✨ Particle system     |                                                                                                                           |
+    
+    
 [Estimate Pi]: https://github.com/josh-truong/MonteCarlo_PiEstimator
 [Vid2Ascii]: https://github.com/josh-truong/Vid2Ascii
 [Spectrum]: https://github.com/josh-truong/Spectrum-CS
