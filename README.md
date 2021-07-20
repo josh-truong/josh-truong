@@ -66,9 +66,8 @@
     
 | Web                                   | Description/Ideas                                                                                            | Mission Accomplished  |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------- |
-| Social Media                          | Expo for cross-platform                                                                                      |
-| Employee/project Management           |                                                                                                              |
-| Online auction system                 |                                                                                                              |
+| Personal Website                      |                                                                                                              |
+
     
 <hr>
 
