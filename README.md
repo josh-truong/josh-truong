@@ -124,9 +124,9 @@
 
 ### Connect with me:
 
-[<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/main/logos/youtube.svg" />][youtube]
 [<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/main/logos/linkedin.svg" />][linkedin]
+[<img width="22px" src="https://github.com/josh-truong/josh-truong/blob/main/logos/youtube.svg" />][youtube]
 
 
-[youtube]: https://www.youtube.com/channel/UCI2CBCAQ21l-TChIpfNGZAA
 [linkedin]: https://www.linkedin.com/in/joshua-truong-731a34190/
+[youtube]: https://www.youtube.com/channel/UCI2CBCAQ21l-TChIpfNGZAA
