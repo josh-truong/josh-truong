@@ -46,7 +46,8 @@
 | Widget for desktop     | [Ref](https://www.deviantart.com/birdalliance/art/SPECTRUM-Launcher-v3-for-Rainmeter-762183493)                           | [Spectrum][Spectrum]
 | ✨ Particle system     |                                                                                                                           | [Particle System]
 | 🔺 Delaunay Triangulation | [Wiki](https://en.wikipedia.org/wiki/Delaunay_triangulation), Use Bowyer-Watson algorithm                              |
-| 🎁 Gift wrapping algorithm | [Wiki](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm), [yt](https://www.youtube.com/watch?v=YNyULRrydVI)         |
+| 🎁 Gift wrapping algorithm | [Wiki](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm), [yt](https://www.youtube.com/watch?v=YNyULRrydVI)      |
+| 💨 Predict covid using airflow simulations |                                                                                                       |
     
     
 [Estimate Pi]: https://github.com/josh-truong/MonteCarlo_PiEstimator
