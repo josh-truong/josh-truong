@@ -48,7 +48,7 @@
 | 🔺 Delaunay Triangulation | [Wiki](https://en.wikipedia.org/wiki/Delaunay_triangulation), Use Bowyer-Watson algorithm                              |
 | 🎁 Gift wrapping algorithm | [Wiki](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm), [yt](https://www.youtube.com/watch?v=YNyULRrydVI)      |
 | 💨 Predict covid using airflow simulations |                                                                                                       |
-    
+| A* Search Algorithm   |                                                                                                                           |
     
 [Estimate Pi]: https://github.com/josh-truong/MonteCarlo_PiEstimator
 [Vid2Ascii]: https://github.com/josh-truong/Vid2Ascii
