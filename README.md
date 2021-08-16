@@ -28,7 +28,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning OpenGl, OpenCV, FFmpeg
 - 💞️ I’m looking to collaborate on ...
-- 🔭 I’m currently working on LazyEdit(an automated process of video editing), particle system, personal website
+- 🔭 I’m currently working on LazyEdit(an automated process of video editing), particle system
 - 🥅 Current goals: ...
 
 <br>
@@ -49,7 +49,7 @@
 | 🎁 Gift wrapping algorithm | [Wiki](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm), [yt](https://www.youtube.com/watch?v=YNyULRrydVI)      |
 | 💨 Predict covid using airflow simulations |                                                                                                       |
 | A* Search/dijkstra algorithm/   |  Use python and pygame to visually demonstrate these algorithms                                                  |
-| Quadtrees for image compression |                                                                                                                  |
+| Quadtrees for image compression |  [ref](https://medium.com/@tannerwyork/quadtrees-for-image-processing-302536c95c00)                              |
     
     
 [Estimate Pi]: https://github.com/josh-truong/MonteCarlo_PiEstimator
