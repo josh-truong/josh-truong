@@ -1,5 +1,5 @@
 <h1 align="center">
-    👋Xin chào (Hello), I'm Joshua Truong!👋
+    👋Hello, I'm Joshua Truong!👋
 <h1>
     
 <h3>
