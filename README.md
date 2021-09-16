@@ -80,7 +80,7 @@
 <hr>
 
 | Automate                              | Description/Ideas                                                                                            | Mission Accomplished  |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------ ||
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------- |
 | 🎥 Automate Video editor              | fade in/out, trim slient audio, automate b-roll                                                              ||
 | Automate thumbnails                    | 1 vid frame(bg), segmentation in focus(fg), quick title cards, use "Paolo fromTOKYO" for ref                ||
 
