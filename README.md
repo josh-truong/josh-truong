@@ -43,7 +43,7 @@
 | ☀️ Raycasting          |                                                                                                                           |
 | 💦 Fluid Simulation    |                                                                                                                           |
 | 🍩 Donut               | [Article](https://www.a1k0n.net/2011/07/20/donut-math.html)                                                               |
-| 🎮 3d engine           | [Python](https://github.com/StanislavPetrovV/Software_3D_engine), [C++](https://www.youtube.com/watch?v=ih20l3pJoeU)      |
+| 🎮 3d engine           | [Python](https://github.com/StanislavPetrovV/Software_3D_engine), [C++](https://www.youtube.com/watch?v=ih20l3pJoeU), quake 3      |
 | Widget for desktop     | [Ref](https://www.deviantart.com/birdalliance/art/SPECTRUM-Launcher-v3-for-Rainmeter-762183493)                           | [Spectrum][Spectrum]
 | ✨ Particle system     |                                                                                                                           | [Particle System]
 | 🔺 Delaunay Triangulation | [Wiki](https://en.wikipedia.org/wiki/Delaunay_triangulation), Use Bowyer-Watson algorithm                              |
