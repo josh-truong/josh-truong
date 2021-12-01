@@ -84,6 +84,14 @@
 | 🎥 Automate Video editor              | fade in/out, trim slient audio, automate b-roll                                                              ||
 | Automate thumbnails                    | 1 vid frame(bg), segmentation in focus(fg), quick title cards, use "Paolo fromTOKYO" for ref                ||
 
+    
+<hr>
+
+| Misc                              | Description/Ideas                                                                                            | Mission Accomplished  |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------- |
+| Haptic Feedback System - VR|    ||
+| Haptic Feedback System - Blind/Deaf people| For the blind combine haptic system w/ google maps, For deaf people (Proximity sensor); Use pancake Vibrator Motor(Coin Vibration Motors)    ||
+
 
     
 ## Languages and Tools
