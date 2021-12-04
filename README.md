@@ -91,6 +91,7 @@
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------- |
 | Haptic Feedback System - VR|    ||
 | Haptic Feedback System - Blind/Deaf people| For the blind combine haptic system w/ google maps, For deaf people (Proximity sensor); Use pancake Vibrator Motor(Coin Vibration Motors)    ||
+| Automate Packing Warehouse | https://www.youtube.com/watch?v=ssZ_8cqfBlE, use a* star algo | |
 
 
     
