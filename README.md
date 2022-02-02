@@ -72,9 +72,9 @@
     
 | Web                                   | Description/Ideas                                                                                            | Mission Accomplished  |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------- |
-| Personal Website                      | [Cold Start Link to Website](https://joshuatruong.herokuapp.com/)                                            | [personal-website]|
+| Personal Website                      | [Link to Website](https://josh-truong.github.io/portfolio-website/)                                            | [personal-website]|
 
-[personal-website]: https://github.com/josh-truong/personal-website
+[personal-website]: https://github.com/josh-truong/portfolio-website
 
     
 <hr>
