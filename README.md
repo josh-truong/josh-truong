@@ -51,12 +51,15 @@
 | 💨 Predict covid using airflow simulations |                                                                                                       |
 | A* Search/dijkstra algorithm/   |  Use python and pygame to visually demonstrate these algorithms                                                  |
 | Quadtrees for image compression |  [ref](https://medium.com/@tannerwyork/quadtrees-for-image-processing-302536c95c00)                              |
+| Maurer Roses | [ref](https://en.wikipedia.org/wiki/Maurer_rose)                                                                                    | [Maurer Rose]
+| Mandelbrot Set | [ref](https://en.wikipedia.org/wiki/Mandelbrot_set)                                                                               |
     
     
 [Estimate Pi]: https://github.com/josh-truong/MonteCarlo_PiEstimator
 [Vid2Ascii]: https://github.com/josh-truong/Vid2Ascii
 [Spectrum]: https://github.com/josh-truong/Spectrum-CS
 [Particle system]: https://github.com/josh-truong/particle-system
+[Maurer Rose]: https://github.com/josh-truong/Maurer-Rose
 <hr>
  
 | Machine Learning                     | Description/Ideas                                                                                            | Mission Accomplished  |
