@@ -46,7 +46,7 @@
 | 🎮 3d engine           | [Python](https://github.com/StanislavPetrovV/Software_3D_engine), [C++](https://www.youtube.com/watch?v=ih20l3pJoeU), quake 3      |
 | Widget for desktop     | [Ref](https://www.deviantart.com/birdalliance/art/SPECTRUM-Launcher-v3-for-Rainmeter-762183493)                           | [Spectrum][Spectrum]
 | ✨ Particle system     |                                                                                                                           | [Particle System]
-| 🔺 Delaunay Triangulation | [Wiki](https://en.wikipedia.org/wiki/Delaunay_triangulation), Use Bowyer-Watson algorithm                              |
+| 🔺 Delaunay Triangulation | [Wiki](https://en.wikipedia.org/wiki/Delaunay_triangulation), Bowyer-Watson algorithm                              |
 | 🎁 Gift wrapping algorithm | [Wiki](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm), [yt](https://www.youtube.com/watch?v=YNyULRrydVI)      |
 | 💨 Predict covid using airflow simulations |                                                                                                       |
 | A* Search/dijkstra algorithm/   |  Use python and pygame to visually demonstrate these algorithms                                                  |
