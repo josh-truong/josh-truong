@@ -53,7 +53,7 @@
 | Quadtrees for image compression |  [ref](https://medium.com/@tannerwyork/quadtrees-for-image-processing-302536c95c00)                              |
 | Maurer Roses | [ref](https://en.wikipedia.org/wiki/Maurer_rose)                                                                                    | [Maurer Rose]
 | Mandelbrot Set | [ref](https://en.wikipedia.org/wiki/Mandelbrot_set)                                                                               |
-| Design and Play | Use openGL, openCV, openFramworks to implement something like this [ref](https://www.youtube.com/watch?v=6x4a0_vwf1c&list=PLGClFgBxg9ttw6gCRVoZtPV81a0Gzl0t-&index=2&ab_channel=1MILLIONDanceStudio) |
+| Design and Play | Use openGL, openCV, openFramworks to implement a combination of [ref1](https://www.youtube.com/watch?v=6x4a0_vwf1c&list=PLGClFgBxg9ttw6gCRVoZtPV81a0Gzl0t-&index=2&ab_channel=1MILLIONDanceStudio) and [ref2](https://www.youtube.com/watch?v=r2LpOUwca94&list=PLGClFgBxg9tuMciuT7VC4bHibogmMTGta&index=15&ab_channel=MajorLazerOfficial)|
     
     
 [Estimate Pi]: https://github.com/josh-truong/MonteCarlo_PiEstimator
