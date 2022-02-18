@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning OpenGl, OpenCV, FFmpeg
 - 💞️ I’m looking to collaborate on ...
 - 🔭 I’m currently working on LazyEdit(an automated process of video editing), particle system
-- 🥅 Current goals: ...
+- 🥅 Current goals: Summer 2022 - (3) Create a large distributed system, (1) get an internship, or work on (2) Design and Play project
 
 <br>
 
