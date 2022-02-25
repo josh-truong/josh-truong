@@ -25,7 +25,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh-truong&layout=compact&theme=dark" />
 </a>
 
-- [📙 Visit my website](http://joshuatruong.herokuapp.com/)
+- [📙 Visit my website](https://josh-truong.github.io/portfolio-website)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning OpenGl, OpenCV, FFmpeg
 - 💞️ I’m looking to collaborate on ...
