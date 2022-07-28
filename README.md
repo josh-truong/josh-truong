@@ -36,14 +36,14 @@
 
 ## Future projects
 | Coding Adventures      | Description/Ideas                                                                                                         | Mission Accomplished  |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| ---------------------- | ------------------------- | --------------------- |
 | 🦠 Cellular Automata   |                                                                                                                           |
-| 🍎 Bad-Apple           | [Video](https://www.youtube.com/watch?v=AZfrXrk3ZHc)                                                                      | [Vid2Ascii][Vid2Ascii]
+| 🍎 Bad-Apple           | [Bad Apple Ref Video][Bad Apple Ref Video] | [Vid2Ascii][Vid2Ascii]
 | 🥧 Estimate Pi         | ~π using Monte Carlo                                                                                                      | [Estimate Pi][Estimate Pi]
 | ☀️ Raycasting          |                                                                                                                           |
 | 💦 Fluid Simulation    |                                                                                                                           |
-| 🍩 Donut               | [Article](https://www.a1k0n.net/2011/07/20/donut-math.html)                                                               |
-| 🎮 3d engine           | [Python](https://github.com/StanislavPetrovV/Software_3D_engine), [C++](https://www.youtube.com/watch?v=ih20l3pJoeU), quake 3      |
+| 🍩 Donut               | [Donut Math Article] |
+| 🎮 3d engine           | [Python][StanislavPetrovV Python 3d graphics engine], [C++][javidx9 C++ 3d graphics engine], [Quake III Algorithm][Fast Inverse Square Root — A Quake III Algorithm] |
 | Widget for desktop     | [Ref](https://www.deviantart.com/birdalliance/art/SPECTRUM-Launcher-v3-for-Rainmeter-762183493)                           | [Spectrum][Spectrum]
 | ✨ Particle system     |                                                                                                                           | [Particle System]
 | 🔺 Delaunay Triangulation | [Wiki](https://en.wikipedia.org/wiki/Delaunay_triangulation), Bowyer-Watson algorithm                              |
@@ -56,8 +56,18 @@
 | Design and Play | Use openGL, openCV, openFramworks to implement a combination of [ref1](https://www.youtube.com/watch?v=6x4a0_vwf1c&list=PLGClFgBxg9ttw6gCRVoZtPV81a0Gzl0t-&index=2&ab_channel=1MILLIONDanceStudio) and [ref2](https://www.youtube.com/watch?v=r2LpOUwca94&list=PLGClFgBxg9tuMciuT7VC4bHibogmMTGta&index=15&ab_channel=MajorLazerOfficial)|
 | Huffman Coding for texts/images | [Wiki](https://en.wikipedia.org/wiki/Huffman_coding)|
 | Perlin noise | [Wiki](https://en.wikipedia.org/wiki/Perlin_noise)|
-    
-    
+| Wave Function Collapsed | | [WFC][WFC]|
+
+<!--Links-->
+[Bad Apple Ref Video]: https://www.youtube.com/watch?v=AZfrXrk3ZHc
+[Donut Math Article]: https://www.a1k0n.net/2011/07/20/donut-math.html
+[StanislavPetrovV Python 3d graphics engine]: https://github.com/StanislavPetrovV/Software_3D_engine
+[javidx9 C++ 3d graphics engine]: https://www.youtube.com/watch?v=ih20l3pJoeU
+[Fast Inverse Square Root — A Quake III Algorithm]: https://www.youtube.com/watch?v=p8u_k2LIZyo
+
+
+<!-- Github Links-->
+[WFC]: https://github.com/josh-truong/WaveFunctionCollapse
 [Estimate Pi]: https://github.com/josh-truong/MonteCarlo_PiEstimator
 [Vid2Ascii]: https://github.com/josh-truong/Vid2Ascii
 [Spectrum]: https://github.com/josh-truong/Spectrum-CS
