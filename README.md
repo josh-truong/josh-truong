@@ -20,10 +20,10 @@
 <!-- About -->
 - [📙 Visit my website][portfolio-website]
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning OpenGl, OpenCV, FFmpeg
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 🔭 I’m currently working on LazyEdit(an automated process of video editing), particle system
-- 🥅 Current goals: Summer 2022 - (3) Create a large distributed system, (1) get an internship, or work on (2) Design and Play project
+- 🔭 I’m currently working on ...
+- 🥅 Current goals: ...
 
 <br>
 
@@ -47,7 +47,7 @@
 | A* Search/dijkstra algorithm | Use python and pygame to visually demonstrate these algorithms |
 | Quadtrees for image compression | [Article][Quadtree Image Compression Article] | [QuadTree][QuadTree]
 | Maurer Roses | [Wiki][Wiki Maurer Roses] | [Maurer Rose]
-| Mandelbrot Set | [Wiki] |
+| Mandelbrot Set | [Wiki][Wiki Mandelbrot Set] |
 | Design and Play | OpenGL, openCV, openFramworks [1MILLIONDanceStudio video ref][1MILLIONDanceStudio video ref], [MajorLazerOfficial video ref][MajorLazerOfficial video ref] |
 | Huffman Coding for texts/images | [Wiki][Wiki Huffman Coding] |  |
 | Perlin noise | [Wiki][Wiki Perlin Noise] |  |
