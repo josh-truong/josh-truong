@@ -63,6 +63,7 @@
 | 📧 Bayesian spam filter | [Veritasium][Veritasium Bayes’ Theorem] |  |
 | 🤓 Statistical analysis on datasets |  |  |
 | 📝 Recommender system |  |  |
+| AI Image/Video Upscaling | | |
 
 <hr>
 
