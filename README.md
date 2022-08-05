@@ -63,9 +63,12 @@
 | 📧 Bayesian spam filter | [Veritasium][Veritasium Bayes’ Theorem] |  |
 | 🤓 Statistical analysis on datasets |  |  |
 | 📝 Recommender system |  |  |
+| spotify k-means | | [spotify k-means][spotify k-means] |
+| california housing k-means | | [california housing k-means][california housing k-means]|
 | 🤖 AI Image/Video Upscaling | | [AI-Upscaler][AI-Upscaler] |
-
+| Random Forest Classification | | |
 <hr>
+
 
 | Web | Description/Ideas | Mission Accomplished |
 | - | - | - |
@@ -178,6 +181,9 @@
 [WFC]: https://github.com/josh-truong/WaveFunctionCollapse
 [portfolio-website-github]: https://github.com/josh-truong/portfolio-website
 [AI-Upscaler]: https://github.com/josh-truong/AI-Upscaler
+[spotify k-means]: https://github.com/josh-truong/spotify-kmeans
+[california housing k-means]: https://github.com/josh-truong/california-housing-kmeans
+
 
 <!-- Contact Links -->
 [portfolio-website]: https://josh-truong.github.io/portfolio-website
