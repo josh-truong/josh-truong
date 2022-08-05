@@ -39,19 +39,19 @@
 | 💦 Fluid Simulation |  |  |
 | 🍩 Donut | [Donut Math Article] |
 | 🎮 3d engine | [Python][StanislavPetrovV Python 3d graphics engine], [C++][javidx9 C++ 3d graphics engine], [Quake III Algorithm][Fast Inverse Square Root — A Quake III Algorithm] |
-| Widget for desktop | [Software Ref][Rainmeter Software Reference] | [Spectrum][Spectrum]
+| 🖥️ Widget for desktop | [Software Ref][Rainmeter Software Reference] | [Spectrum][Spectrum]
 | ✨ Particle system |  | [Particle System]
 | 🔺 Delaunay Triangulation | [Delaunay Triangulation][Delaunay Triangulation], [Bowyer-Watson Algorithm] |
 | 🎁 Gift wrapping algorithm | [Gift Wrapping Algorithm][Gift Wrapping Algorithm], [Video Ref][Gift Wrapping Algorithm Video Reference] |
 | 💨 Predict covid using airflow simulations |  |  |
-| A* Search/dijkstra algorithm | Use python and pygame to visually demonstrate these algorithms |
-| Quadtrees for image compression | [Article][Quadtree Image Compression Article] | [QuadTree][QuadTree]
-| Maurer Roses | [Wiki][Wiki Maurer Roses] | [Maurer Rose]
+| 🔎 A* Search/dijkstra algorithm | Use python and pygame to visually demonstrate these algorithms |
+| 🌳 Quadtrees for image compression | [Article][Quadtree Image Compression Article] | [QuadTree][QuadTree]
+| 🌹 Maurer Roses | [Wiki][Wiki Maurer Roses] | [Maurer Rose]
 | Mandelbrot Set | [Wiki][Wiki Mandelbrot Set] |
 | Design and Play | OpenGL, openCV, openFramworks [1MILLIONDanceStudio video ref][1MILLIONDanceStudio video ref], [MajorLazerOfficial video ref][MajorLazerOfficial video ref] |
-| Huffman Coding for texts/images | [Wiki][Wiki Huffman Coding] |  |
+| 👨‍💻 Huffman Coding for texts/images | [Wiki][Wiki Huffman Coding] |  |
 | Perlin noise | [Wiki][Wiki Perlin Noise] |  |
-| Wave Function Collapsed | [mxgmn][mxgmn - WaveFunctionCollapse], [Wiki][Wiki Wave_function_collapse], [Robert Heaton][Robert Heaton WFC], [BorisTheBrave][BorisTheBrave WFC], WaveFunctionCollapse is Contraint Solving - UCSC Paper | [WFC][WFC]|
+| 🌊 Wave Function Collapsed | [mxgmn][mxgmn - WaveFunctionCollapse], [Wiki][Wiki Wave_function_collapse], [Robert Heaton][Robert Heaton WFC], [BorisTheBrave][BorisTheBrave WFC], WaveFunctionCollapse is Contraint Solving - UCSC Paper | [WFC][WFC]|
 
 <hr>
 
@@ -59,17 +59,17 @@
 | - | - | - |
 | 📉 Intraday Trading |  |  |
 | ♻️ Object Recognition for Recycling | Incorporate game theory |  |  |
-| Stable Matching | Find suitable team members |  |  |
+| 🧑‍🤝‍🧑 Stable Matching | Find suitable team members |  |  |
 | 📧 Bayesian spam filter | [Veritasium][Veritasium Bayes’ Theorem] |  |
 | 🤓 Statistical analysis on datasets |  |  |
 | 📝 Recommender system |  |  |
-| AI Image/Video Upscaling | | [AI-Upscaler][AI-Upscaler] |
+| 🤖 AI Image/Video Upscaling | | [AI-Upscaler][AI-Upscaler] |
 
 <hr>
 
 | Web | Description/Ideas | Mission Accomplished |
 | - | - | - |
-| Personal Website | [Link to Website][portfolio-website] | [portfolio-website][portfolio-website-github] |
+| 🌐 Personal Website | [Link to Website][portfolio-website] | [portfolio-website][portfolio-website-github] |
 
 <hr>
 
@@ -85,7 +85,7 @@
 | Haptic Feedback System - VR |  |  |
 | Haptic Feedback System - Blind/Deaf people| For the blind combine haptic system w/ google maps, For deaf people (Proximity sensor); Use pancake Vibrator Motor(Coin Vibration Motors) |  |
 | Automate Packing Warehouse | [Video ref][A* Video ref], A* algo |  |
-| Stereo imaging system | Find distance |  |
+| Stereo imaging system | [stero vision][stero vision depth estimation], [monocular][monocular camera depth estimation], [opencv][depth map opencv], [learnopencv][depth map learnopencv], [github][github monodepth2] |  |
 | Derivative Calculator | Using Scala and Inductive Definition w/ parser |  |  |
 
 
@@ -162,6 +162,11 @@
 [MajorLazerOfficial video ref]: https://www.youtube.com/watch?v=r2LpOUwca94&list=PLGClFgBxg9tuMciuT7VC4bHibogmMTGta&index=15&ab_channel=MajorLazerOfficial
 [Veritasium Bayes’ Theorem]: https://www.youtube.com/watch?v=R13BD8qKeTg
 [A* Video ref]: https://www.youtube.com/watch?v=ssZ_8cqfBlE
+[stero vision depth estimation]: https://www.youtube.com/watch?v=KOSS24P3_fY
+[monocular camera depth estimation]: https://www.youtube.com/watch?v=jid-53uPQr0
+[depth map opencv]: https://docs.opencv.org/3.4/dd/d53/tutorial_py_depthmap.html
+[depth map learnopencv]: https://learnopencv.com/depth-perception-using-stereo-camera-python-c/
+[github monodepth2]: https://github.com/nianticlabs/monodepth2
 
 <!-- Github Links-->
 [Vid2Ascii]: https://github.com/josh-truong/Vid2Ascii
