@@ -63,7 +63,7 @@
 | 📧 Bayesian spam filter | [Veritasium][Veritasium Bayes’ Theorem] |  |
 | 🤓 Statistical analysis on datasets |  |  |
 | 📝 Recommender system |  |  |
-| AI Image/Video Upscaling | | |
+| AI Image/Video Upscaling | | [AI-Upscaler][AI-Upscaler] |
 
 <hr>
 
@@ -172,6 +172,7 @@
 [Maurer Rose]: https://github.com/josh-truong/Maurer-Rose
 [WFC]: https://github.com/josh-truong/WaveFunctionCollapse
 [portfolio-website-github]: https://github.com/josh-truong/portfolio-website
+[AI-Upscaler]: https://github.com/josh-truong/AI-Upscaler
 
 <!-- Contact Links -->
 [portfolio-website]: https://josh-truong.github.io/portfolio-website
