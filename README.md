@@ -66,7 +66,9 @@
 | spotify k-means | | [spotify k-means][spotify k-means] |
 | california housing k-means | | [california housing k-means][california housing k-means]|
 | 🤖 AI Image/Video Upscaling | | [AI-Upscaler][AI-Upscaler] |
-| Random Forest Classification | | |
+| Random Forest Classification | | [Body Part Recognition Paper][Body Part Recognition Paper] |
+
+
 <hr>
 
 
@@ -170,6 +172,7 @@
 [depth map opencv]: https://docs.opencv.org/3.4/dd/d53/tutorial_py_depthmap.html
 [depth map learnopencv]: https://learnopencv.com/depth-perception-using-stereo-camera-python-c/
 [github monodepth2]: https://github.com/nianticlabs/monodepth2
+[Body Part Recognition Paper]: https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/BodyPartRecognition.pdf
 
 <!-- Github Links-->
 [Vid2Ascii]: https://github.com/josh-truong/Vid2Ascii
