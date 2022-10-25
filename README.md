@@ -44,7 +44,7 @@
 | 🔺 Delaunay Triangulation | [Delaunay Triangulation][Delaunay Triangulation], [Bowyer-Watson Algorithm] |
 | 🎁 Gift wrapping algorithm | [Gift Wrapping Algorithm][Gift Wrapping Algorithm], [Video Ref][Gift Wrapping Algorithm Video Reference] |
 | 💨 Predict covid using airflow simulations |  |  |
-| 🔎 A* Search/dijkstra algorithm | Use python and pygame to visually demonstrate these algorithms |
+| 🔎 A* Search/dijkstra algorithm | | [Path-planning w/ Astar Search Algorithmn][astar-path-planning] |
 | 🌳 Quadtrees for image compression | [Article][Quadtree Image Compression Article] | [QuadTree][QuadTree]
 | 🌹 Maurer Roses | [Wiki][Wiki Maurer Roses] | [Maurer Rose]
 | Mandelbrot Set | [Wiki][Wiki Mandelbrot Set] |
@@ -186,7 +186,7 @@
 [AI-Upscaler]: https://github.com/josh-truong/AI-Upscaler
 [spotify k-means]: https://github.com/josh-truong/spotify-kmeans
 [california housing k-means]: https://github.com/josh-truong/california-housing-kmeans
-
+[astar-path-planning]: https://github.com/josh-truong/path-planning
 
 <!-- Contact Links -->
 [portfolio-website]: https://josh-truong.github.io/portfolio-website
