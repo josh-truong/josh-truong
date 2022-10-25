@@ -66,7 +66,7 @@
 | california housing k-means | | [california housing k-means][california housing k-means]|
 | 🤖 AI Image/Video Upscaling | | [AI-Upscaler][AI-Upscaler] |
 | Random Forest Classification | [Body Part Recognition Paper][Body Part Recognition Paper] |  |
-| Random Sample Consensus (RANSAC) ||
+| Random Sample Consensus (RANSAC) | Panorama Stitching |
 
 <hr>
 
