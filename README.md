@@ -61,7 +61,6 @@
 | ♻️ Object Recognition for Recycling | Incorporate game theory |  |  |
 | 🧑‍🤝‍🧑 Stable Matching | Find suitable team members |  |  |
 | 📧 Bayesian spam filter | [Veritasium][Veritasium Bayes’ Theorem] |  |
-| 🤓 Statistical analysis on datasets |  |  |
 | 📝 Recommender system |  |  |
 | spotify k-means | | [spotify k-means][spotify k-means] |
 | california housing k-means | | [california housing k-means][california housing k-means]|
