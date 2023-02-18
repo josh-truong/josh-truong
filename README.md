@@ -56,6 +56,13 @@
 | 🌊 Wave Function Collapsed | [mxgmn][mxgmn - WaveFunctionCollapse], [Wiki][Wiki Wave_function_collapse], [Robert Heaton][Robert Heaton WFC], [BorisTheBrave][BorisTheBrave WFC], WaveFunctionCollapse is Contraint Solving - UCSC Paper | [WFC][WFC]|
 
 <hr>
+    
+| Robotics | Description/Ideas | Mission Accomplished |
+| - | - | - |
+| MCL | Monte Carlo localization (MCL), also known as particle filter localization, is an algorithm for robots to localize using a particle filter.  |  |
+| SLAM | Simultaneous localization and mapping (SLAM) is an algorithm for constructing/updating a map of an unknown environment while simultaneously localizing the robot within it. | | 
+    
+<hr>
 
 | Machine Learning | Description/Ideas | Mission Accomplished |
 | - | - | - |
