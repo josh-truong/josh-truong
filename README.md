@@ -48,8 +48,7 @@
 | 🌳 Quadtrees for image compression | [Article][Quadtree Image Compression Article] | [QuadTree][QuadTree]
 | 🌹 Maurer Roses | [Wiki][Wiki Maurer Roses] | [Maurer Rose]
 | Mandelbrot Set | [Wiki][Wiki Mandelbrot Set] |
-| Design and Play | OpenGL, openCV, openFramworks [1MILLIONDanceStudio video ref][1MILLIONDanceStudio video ref], [MajorLazerOfficial video ref][MajorLazerOfficial video ref] |
-| Dance with Kinect | | |
+| Dance with Kinect | OpenGL, openCV, openFramworks [1MILLIONDanceStudio video ref][1MILLIONDanceStudio video ref], [MajorLazerOfficial video ref][MajorLazerOfficial video ref] | |
 | Fashion with Kinect | | | 
 | 👨‍💻 Huffman Coding for texts/images | [Wiki][Wiki Huffman Coding] |  |
 | Perlin noise | [Wiki][Wiki Perlin Noise] |  |
