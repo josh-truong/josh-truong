@@ -95,6 +95,7 @@
 
 | Misc | Description/Ideas | Mission Accomplished |
 | - | - | - |
+| 👓 HMDS | | |
 | Haptic Feedback System - VR |  |  |
 | Haptic Feedback System - Blind/Deaf people| For the blind combine haptic system w/ google maps, For deaf people (Proximity sensor); Use pancake Vibrator Motor(Coin Vibration Motors) |  |
 | Automate Packing Warehouse | [Video ref][A* Video ref], A* algo |  |
