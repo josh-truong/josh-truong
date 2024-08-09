@@ -53,6 +53,7 @@
 | 👨‍💻 Huffman Coding for texts/images | [Wiki][Wiki Huffman Coding] |  |
 | Perlin noise | [Wiki][Wiki Perlin Noise] |  |
 | 🌊 Wave Function Collapsed | [mxgmn][mxgmn - WaveFunctionCollapse], [Wiki][Wiki Wave_function_collapse], [Robert Heaton][Robert Heaton WFC], [BorisTheBrave][BorisTheBrave WFC], WaveFunctionCollapse is Contraint Solving - UCSC Paper | [WFC][WFC]|
+| Saluton | | Mobile App (ios) for Nail Salon Stuff|
 
 <hr>
     
