@@ -77,6 +77,7 @@
 | Random Forest Classification | [Body Part Recognition Paper][Body Part Recognition Paper] |  |
 | Random Sample Consensus (RANSAC) | Panorama Stitching |
 | Debugging error message with OpenAi | The idea is to create an extention (prototype as a visual studio code extention) to take in debugging errors and use OpenAI to explain what the error means. | |
+| Simulated annealing and traveling salesman |||
 
 <hr>
 
